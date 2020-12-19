@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Comic Sans MS";
+}
+body {
+    background-color: deepskyblue;
+
+    text-align: center;
+}
+ul {
+    list-style: None;
+}
+input {
+    text-align: center;
+}
+div {
+    position: absolute;
+    top: 90px;
+    left: 34%;
+    width: 100px;
+    height: 100px;
+    background-image: url("images/happy_shiba.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
